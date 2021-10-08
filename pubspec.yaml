@@ -40,6 +40,11 @@ dependencies:
       url: https://github.com/leanflutter/window_manager.git
       ref: main
 
+  system_tray:
+    git:
+      url: https://github.com/antler119/system_tray.git
+      ref: master
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
